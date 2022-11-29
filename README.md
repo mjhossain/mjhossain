@@ -3,7 +3,7 @@
 - 👀 I’m interested in backend and cross-platform mobile app development
 - 🌱 I’m currently learning Advanced Flutter Development & Cloud Computing (AWS)
 - 📫 Reach me at hi@modevelops.com
-- I spend and awful lot of time learning about Airbus & Boeing systems and practicing it on Microsoft Flight Simulator
+- ✈️ I spend and awful lot of time learning about Airbus & Boeing systems and practicing it on Microsoft Flight Simulator
 
 <!---
 mjhossain/mjhossain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
