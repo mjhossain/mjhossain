@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Advanced Flutter Development & Cloud Computing (AWS)
 - 📫 Reach me at hi@modevelops.com
 - ✈️ I spend and awful lot of time learning about Airbus & Boeing systems and practicing it on Microsoft Flight Simulator
+- 💻 Language Usage (Past 3 Months): Python   |   Java   |   Bash   |   Dart
 
 <!---
 mjhossain/mjhossain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
