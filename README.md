@@ -1,3 +1,4 @@
+<!---
 ### Introduction
 - 👋 Hi, I’m Mohammed (@mjhossain)
 - 👀 I’m interested in backend and cross-platform mobile app development
@@ -5,6 +6,24 @@
 - 📫 Reach me at hi@modevelops.com
 - ✈️ I spend and awful lot of time learning about Airbus & Boeing systems and practicing it on Microsoft Flight Simulator
 - 💻 Language Usage (Past 3 Months): Python | Java | JavaScript | Bash | Dart
+--->
+
+
+```json
+{
+  "name" : "Mohammed J Hossain",
+  "twitter" : "@mothinks247",
+  "contact" : "hi@modevelops.com",
+  "dev-interests" : ["Backend Development", "Cross-Platform Mobile App Development", "Cloud Computing", "DevOps"],
+  "current-focus" : ["ReactJS", "Docker", "Advanced Flutter Concepts"],
+  "language-usage (3 months)" : ["JavaScript", "Java", "Python", "Bash", "Dart"],
+  "life-interests" : ["Aviation", "Cinematography", "Soccer", "Cricket"]
+}
+
+```
+
+
+
 
 <!---
 mjhossain/mjhossain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
