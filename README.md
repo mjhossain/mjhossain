@@ -18,6 +18,7 @@
   "current-focus" : ["ReactJS", "Docker", "Advanced Flutter Concepts"],
   "language-usage (3 months)" : ["JavaScript", "Java", "Python", "Bash", "Dart"],
   "life-interests" : ["Aviation", "Cinematography", "Soccer", "Cricket"]
+  "interesting-finds" : ["trywilco.com"]
 }
 
 ```
