@@ -16,7 +16,7 @@
   "contact" : "hi@modevelops.com",
   "dev-interests" : ["Backend Development", "Cross-Platform Mobile App Development", "Cloud Computing", "DevOps"],
   "career-goal": {
-    "start-line" : "Frontend-Developer",
+    "start-line" : "Frontend-Developer || Backend-Developer",
     "mid-line" : "Full-Stack-Developer",
     "finish-line" : "DevOps-Engineer"
   },
