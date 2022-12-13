@@ -15,7 +15,12 @@
   "twitter" : "@mothinks247",
   "contact" : "hi@modevelops.com",
   "dev-interests" : ["Backend Development", "Cross-Platform Mobile App Development", "Cloud Computing", "DevOps"],
-  "current-focus" : ["ReactJS", "Docker", "Advanced Flutter Concepts"],
+  "career-goal": {
+    "start-line" : "Frontend-Developer",
+    "mid-line" : "Full-Stack-Developer",
+    "finish-line" : "DevOps-Engineer"
+  },
+  "current-focus" : ["ReactJS", "Cloud-Computing", "Advanced Flutter Concepts"],
   "language-usage (3 months)" : ["JavaScript", "Java", "Python", "Bash", "Dart"],
   "life-interests" : ["Aviation", "Cinematography", "Soccer", "Cricket"]
   "interesting-finds" : ["trywilco.com"]
