@@ -22,7 +22,7 @@
   },
   "current-focus" : ["ReactJS", "Cloud-Computing", "Blue Team Cybersecurity"],
   "language-usage (3 months)" : ["JavaScript", "Java", "Python", "Bash", "Dart"],
-"certifications" : ["ISC2 Certified in Cybersecurity", "Google Cybersecurity Professional"],
+  "certifications" : ["ISC2 Certified in Cybersecurity", "Google Cybersecurity Professional"],
   "life-interests" : ["Aviation", "Cinematography", "Soccer", "Cricket"]
   
 }
