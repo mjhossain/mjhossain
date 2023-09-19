@@ -14,16 +14,17 @@
   "name" : "Mohammed J Hossain",
   "twitter" : "@mothinks247",
   "contact" : "hi@modevelops.com",
-  "dev-interests" : ["Backend Development", "Cross-Platform Mobile App Development", "Cloud Computing", "DevOps"],
+  "dev-interests" : ["Backend Development", "Cross-Platform Mobile App Development", "Cloud Computing", "DevOps", "Cybersecurity"],
   "career-goal": {
     "start-line" : "Frontend-Developer || Backend-Developer",
-    "mid-line" : "Full-Stack-Developer",
-    "finish-line" : "DevOps-Engineer"
+    "mid-line" : "Full-Stack-Developer || Cybersecurity Analyst",
+    "finish-line" : "DevOps-Engineer || CISO"
   },
-  "current-focus" : ["ReactJS", "Cloud-Computing", "Advanced Flutter Concepts"],
+  "current-focus" : ["ReactJS", "Cloud-Computing", "Blue Team Cybersecurity"],
   "language-usage (3 months)" : ["JavaScript", "Java", "Python", "Bash", "Dart"],
+"certifications" : ["ISC2 Certified in Cybersecurity", "Google Cybersecurity Professional"],
   "life-interests" : ["Aviation", "Cinematography", "Soccer", "Cricket"]
-  "interesting-finds" : ["trywilco.com"]
+  
 }
 
 ```
