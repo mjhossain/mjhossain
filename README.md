@@ -13,7 +13,7 @@
 {
   "name" : "Mohammed J Hossain",
   "twitter" : "@mothinks247",
-  "contact" : "hi@modevelops.com",
+  "contact" : "mo@mointech.dev",
   "dev-interests" : ["Backend Development", "Cross-Platform Mobile App Development", "Cloud Computing", "DevOps", "Cybersecurity"],
   "career-goal": {
     "start-line" : "Frontend-Developer || Backend-Developer",
