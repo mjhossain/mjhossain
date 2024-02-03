@@ -13,18 +13,17 @@
 {
   "name" : "Mohammed J Hossain",
   "twitter" : "@mothinks247",
-  "contact" : "mo@mointech.dev",
+  "contact" : "mjhossain97@protonmail.com",
   "dev-interests" : ["Backend Development", "Cross-Platform Mobile App Development", "Cloud Computing", "DevOps", "Cybersecurity"],
   "career-goal": {
-    "start-line" : "Frontend-Developer || Backend-Developer",
-    "mid-line" : "Full-Stack-Developer || Cybersecurity Analyst",
+    "current-position" : "IT Technician",
+    "mid-line" : "Network Engineer || Cybersecurity Analyst",
     "finish-line" : "DevOps-Engineer || CISO"
   },
-  "current-focus" : ["ReactJS", "Cloud-Computing", "Blue Team Cybersecurity"],
-  "language-usage (3 months)" : ["JavaScript", "Java", "Python", "Bash", "Dart"],
+  "current-focus" : ["Networking", "Cloud-Computing", "Blue Team Cybersecurity"],
+  "language-usage (3 months)" : ["JavaScript", "Python", "Bash", "Dart"],
   "certifications" : ["ISC2 Certified in Cybersecurity", "Google Cybersecurity Professional"],
   "life-interests" : ["Aviation", "Cinematography", "Soccer", "Cricket"]
-  
 }
 
 ```
