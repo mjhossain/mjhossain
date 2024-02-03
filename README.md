@@ -1,4 +1,4 @@
-<!---
+
 ### Introduction
 - 👋 Hi, I’m Mohammed (@mjhossain)
 - 👀 I’m interested in backend and cross-platform mobile app development
@@ -6,7 +6,7 @@
 - 📫 Reach me at hi@modevelops.com
 - ✈️ I spend and awful lot of time learning about Airbus & Boeing systems and practicing it on Microsoft Flight Simulator
 - 💻 Language Usage (Past 3 Months): Python | Java | JavaScript | Bash | Dart
---->
+
 
 
 ```json
