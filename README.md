@@ -21,7 +21,7 @@
     "finish-line" : "DevOps-Engineer || CISO"
   },
   "current-focus" : ["Networking", "Cloud-Computing", "Blue Team Cybersecurity"],
-  "next-certs-goal": ["Network+", "AZ-305 | Azure Solutions Architech Expert"],
+  "next-certs-goal": ["Network+", "AZ-102", "Security+"],
   "certifications" : ["ISC2 Certified in Cybersecurity", "Google Cybersecurity Professional"],
   "language-usage (3 months)" : ["JavaScript", "Python", "Bash", "Dart"],
   "life-interests" : ["Aviation", "Cinematography", "Soccer"]
