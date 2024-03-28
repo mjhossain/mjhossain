@@ -14,17 +14,17 @@
   "name" : "Mohammed J Hossain",
   "twitter" : "@mothinks247",
   "contact" : "mjhossain97@protonmail.com",
-  "dev-interests" : ["Networking", "Cloud Computing", "DevOps", "Cybersecurity", "Backend Development", "Cross-Platform Mobile App Development"],
+  "dev-interests" : ["Networking", "Cloud Computing", "DevOps", "Cybersecurity", "Backend Development"],
   "career-goal": {
     "current-position" : "IT Technician",
-    "mid-line" : "Network Engineer || Cybersecurity Analyst",
-    "finish-line" : "DevOps-Engineer || CISO"
+    "mid-line" : "Network Engineer || Cloud Engineer",
+    "finish-line" : "DevOps-Engineer || Site Reliability Engineer"
   },
   "current-focus" : ["Networking", "Cloud-Computing", "Blue Team Cybersecurity"],
-  "next-certs-goal": ["Network+", "AZ-102", "Security+"],
+  "next-certs-goal": ["Network+", "AZ-104", "Security+"],
   "certifications" : ["ISC2 Certified in Cybersecurity", "Google Cybersecurity Professional"],
   "language-usage (3 months)" : ["JavaScript", "Python", "Bash", "Dart"],
-  "life-interests" : ["Aviation", "Cinematography", "Soccer"]
+  "life-interests" : ["Aviation", "Cinematography", "Football"]
 }
 
 ```
