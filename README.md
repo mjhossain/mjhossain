@@ -1,3 +1,4 @@
+
 <!--
 ### Introduction
 - 👋 Hi, I’m Mohammed (@mjhossain)
@@ -34,11 +35,12 @@
 
 <h2 align="left">About me</h2>
 
+
 ###
 
-<pre>
+<pre class="prettyprint">
   <code>
-  {
+{
   "name" : "Mohammed J Hossain",
   "twitter" : "@mothinks247",
   "contact" : "mjhossain97@protonmail.com",
@@ -104,4 +106,3 @@
 mjhossain/mjhossain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<br>
