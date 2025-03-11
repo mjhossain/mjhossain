@@ -53,7 +53,7 @@
   "current-focus" : ["Networking", "Cloud-Computing"],
   "current-certs-goal": ["AWS Associate Solutions Architect"],
   "certifications" : ["ISC2 Certified in Cybersecurity", "Google Cybersecurity Professional"],
-  "language-usage (3 months)" : ["JavaScript", "Python", "Powershell", "Dart"],
+  "language-usage (3 months)" : ["JavaScript", "Python", "Powershell", "React-Native"],
   "life-interests" : ["Aviation", "Cinematography", "Football"]
 }
   </code>
@@ -95,6 +95,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  
 </div>
 
 ###
