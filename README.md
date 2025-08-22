@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently pursuing **AWS Solutions Architect Associate**
 
-- 👨‍💻 All of my projects are available at [https://mointech.dev](https://mointech.dev)
+- 👨‍💻 All of my projects are available at [https://mhossain.dev](https://mhossain.dev)
 
 - 📝 I regularly write articles on [https://medium.com/@mjhossainnyc](https://medium.com/@mjhossainnyc)
 
