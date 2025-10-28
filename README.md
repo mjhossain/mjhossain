@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">An IT Automation Engineer skilled in Dev and Cloud Infrastructure</h3>
 
-- 🔭 I’m currently working on **an AI expense tracking app**
+- 🔭 Most recent project [EvntManager.io](https://evntmanager.io)
 
 - 🌱 I’m currently pursuing **AWS Solutions Architect Associate**
 
@@ -9,11 +9,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mjhossainnyc](https://medium.com/@mjhossainnyc)
 
-- 💬 Ask me about **aws, powershell, power platform, react-native**
+- 📫 How to reach me **mhossain@mhossain.dev**
 
-- 📫 How to reach me **hi@mointech.dev**
-
-- 📄 Know about my experiences [https://mointech.dev/MohammedJHossain.pdf](https://mointech.dev/MohammedJHossain.pdf)
+- 📄 Know about my experiences [https://mohossain.dev/MohammedJHossain.pdf](https://mhossain.dev/MohammedJHossain.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
